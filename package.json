@@ -1,0 +1,21 @@
+{
+    "name": "WebpConvertor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "ts-node ./main.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "cwebp": "^2.0.5",
+        "ts-node": "^8.6.2"
+    },
+    "devDependencies": {
+        "@types/node": "^13.7.4"
+    }
+}
